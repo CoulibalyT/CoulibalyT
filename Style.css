@@ -6,7 +6,7 @@ html {
   margin: 0px;
 }
 header {
-  background-image: url(/misc/grille.png);
+  background-image: url(./misc/grille.png);
   width: 100%;
   margin-bottom: 10px;
 }
@@ -114,7 +114,7 @@ span#TextMiddle {
 }
 
 div#S1 {
-  background-image: url(/misc/grille.png);
+  background-image: url(./misc/grille.png);
   padding: 20px;
   margin: 10px 0;
 }
@@ -224,7 +224,7 @@ h3.textFF {
 }
 
 .PreFooter {
-  background-image: url(/misc/grille.png);
+  background-image: url(./misc/grille.png);
   margin: 10px 0;
 }
 
