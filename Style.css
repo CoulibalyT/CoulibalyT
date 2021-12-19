@@ -127,7 +127,7 @@ aside.aside1 {
 .textG {
   margin: 15px 0 10px 10px;
   text-transform: uppercase;
-  color: rgb(134, 104, 49);
+  color: #f76900;;
   font-family: "oswald";
 }
 
@@ -186,7 +186,7 @@ img.accro {
 h3.textG1 {
   text-transform: uppercase;
   margin: 15px 0 10px 0;
-  color: rgb(134, 104, 49);
+  color: #f76900;
   font-family: "oswald";
 }
 p.textAside {
@@ -205,7 +205,7 @@ div.Image {
 
 h3.textFF {
   margin: 50px 0 10px 0;
-  color: rgb(134, 104, 49);
+  color: #f76900;
   font-family: "oswald";
   text-transform: uppercase;
 }
