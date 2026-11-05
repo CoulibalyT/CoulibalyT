@@ -12,9 +12,9 @@ Ces dernières années : **INSEAD** (plateformes d'admission et de bourses, port
 
 ## Projets choisis
 
-<a href="https://github.com/CoulibalyT/noir"><img src="assets/noir.jpg" alt="NØIR HAUS : défilé de haute couture en 3D" width="100%"></a>
+<a href="https://noir-inky.vercel.app"><img src="assets/noir.jpg" alt="NØIR HAUS : défilé de haute couture en 3D" width="100%"></a>
 
-**[NØIR HAUS](https://github.com/CoulibalyT/noir)** · défilé de haute couture en 3D, en un seul plan-séquence piloté au scroll. GLSL sur mesure, post-traitement en 7 passes, son procédural.<br>
+**[NØIR HAUS](https://github.com/CoulibalyT/noir)** ([démo](https://noir-inky.vercel.app)) · défilé de haute couture en 3D, en un seul plan-séquence piloté au scroll. GLSL sur mesure, post-traitement en 7 passes, son procédural.<br>
 <sub><code>Three.js</code> <code>TypeScript</code> <code>GSAP</code> <code>Web Audio</code></sub>
 
 <table>
